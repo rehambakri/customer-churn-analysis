@@ -104,12 +104,16 @@ Exploratory Data Analysis (EDA) was conducted to understand churn patterns befor
 _Add your screenshots below by placing them inside a `screenshots` folder._
 
 ### Main Dashboard
-![Main Dashboard](./dashboards-screenshots/Screenshot 2026-02-01 132409.png)
+![Main Dashboard](./dashboards-screenshots/Screenshot%202026-02-01%20132409.png)
 
 ### Churn Analysis Page
-![Churn Analysis](./dashboards-screenshots/Screenshot 2026-02-01 132501.png)
-(./dashboards-screenshots/Screenshot 2026-02-01 132439.png)
-(./dashboards-screenshots/Screenshot 2026-02-01 132423.png)
+![Revenue&Customer Value](./dashboards-screenshots/Screenshot%202026-02-01%20132439.png)
+
+![Churn Drivers Analysis](./dashboards-screenshots/Screenshot%202026-02-01%20132423.png)
+
+![Customer Segment Details](./dashboards-screenshots/Screenshot%202026-02-01%20132501.png)
+
+
 
 
 ---
